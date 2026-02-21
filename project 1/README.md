@@ -163,7 +163,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 **ARPITA DAS**
 - GitHub: [@programmer-arpita](https://github.com/programmer-arpita)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/programmer-arpita)
+- LinkedIn: [programmer-arpita](https://linkedin.com/in/programmer-arpita)
 
 ---
 
